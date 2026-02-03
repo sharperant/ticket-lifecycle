@@ -2,20 +2,11 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
-<h2>Environments and Technologies Used</h2>
-
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
-
+<h1>osTicket - LifeCycle Examples Setup</h1>
+This tutorial demonstrates the creation of tickets as an end user .
+Ken is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking.
+</p>
+<p>
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
