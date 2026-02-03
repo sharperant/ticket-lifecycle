@@ -23,9 +23,10 @@ In this example we are setting the priority level of the ticket. The priority ha
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1016" height="946" alt="slide3" src="https://github.com/user-attachments/assets/404c2470-91b0-4ab4-beb3-e4eaa16d6b6e" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Congratulations on observing an example of the osTicket - LifeCycle
 </p>
 <br />
