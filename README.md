@@ -10,6 +10,7 @@ In this tutorial we will demonstrate the lifecycle of a ticket from intake to re
 <h2>Environments and Technologies Used</h2>
 </p>
 <p>
+  
 - Microsoft Azure (Virtual Machines/Computer)
   
 - Remote Desktop
