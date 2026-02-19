@@ -21,10 +21,13 @@ In this tutorial we will demonstrate the lifecycle of a ticket from intake to re
 <h2>Operating Systems Used</h2>
 </p>
 <p>
+  
 - Windows 10 (21H2)
 </p>
 <p>
 <h2>Ticket Lifecycle Stages</h2>
+</p>
+<p>
 - Intake
   
 - Assignment and Communication
