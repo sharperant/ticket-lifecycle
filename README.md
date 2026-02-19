@@ -11,7 +11,9 @@ In this tutorial we will demonstrate the lifecycle of a ticket from intake to re
 </p>
 <p>
 - Microsoft Azure (Virtual Machines/Computer)
+  
 - Remote Desktop
+  
 - Internet Information Services (IIS)
 </p>
 <p>
