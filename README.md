@@ -44,13 +44,13 @@ In this tutorial we will demonstrate the lifecycle of a ticket from intake to re
 INTAKE. A user named Ken initiates a support request by opening a new ticket through the osTicket system:
 <p>
 <p>
-<img width="767" height="792" alt="slide1" src="https://github.com/user-attachments/assets/22eb7da9-9238-4ac5-b468-7ccf575a9137" />
+<img width="80%" height="792" alt="slide1" src="https://github.com/user-attachments/assets/22eb7da9-9238-4ac5-b468-7ccf575a9137" />
 <p>
 <p>
 This marks the beginning of the ticket lifecycle and logs Ken’s issue into the help desk queue for review by support staff.
 <p>
 <p>
-<img width="777" height="508" alt="slide2" src="https://github.com/user-attachments/assets/d87f1490-a3ec-420f-9f07-c98db3ac23e9" />
+<img width="80%" height="508" alt="slide2" src="https://github.com/user-attachments/assets/d87f1490-a3ec-420f-9f07-c98db3ac23e9" />
 <p>
 <p>
 TICKET ASSIGNMENT. Once the ticket is submitted, a support agent John Doe, logs into the help desk dashboard to check for new and existing tickets requiring attention.
