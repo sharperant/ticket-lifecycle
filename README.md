@@ -28,7 +28,7 @@ In this tutorial we will demonstrate the lifecycle of a ticket from intake to re
 <h2>Ticket Lifecycle Stages</h2>
 </p>
 <p>
-- Intake
+  - Intake
   
 - Assignment and Communication
 
