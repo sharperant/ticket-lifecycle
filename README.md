@@ -71,7 +71,7 @@ COMMUNICATION. Upon examining the details of the ticket, Agent John determines t
 Realizing that the issue is beyond his scope or requires specialized expertise, he decides to escalate the ticket by reassigning it to a System Administrator. Before transferring it, he ensures that proper internal notes and communication are added to maintain clarity for the next handler.
 <p>
 <p>
-<img width="1041" height="742" alt="slide5" src="https://github.com/user-attachments/assets/28d4feff-f9c5-464a-9712-3bd4290ff229" />
+<img width="80%" height="742" alt="slide5" src="https://github.com/user-attachments/assets/28d4feff-f9c5-464a-9712-3bd4290ff229" />
 <p>
 <p>
 WORKING THE ISSUE. The reassigned ticket is received by System Administrator Jane Doe, who logs into her portal to take over the issue.
